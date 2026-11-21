@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these design files, please cite this repository."
+type: dataset
+title: "UWB Stella-Shield enclosures: 3D-printable enclosures for the Arduino Stella and the Portenta C33 with UWB Shield"
+authors:
+  - family-names: Muntean
+    given-names: Raul-Adrian
+    affiliation: "Politehnica University Timișoara"
+keywords:
+  - ultra-wideband
+  - UWB
+  - enclosure
+  - 3D printing
+  - Arduino Stella
+  - Arduino Portenta C33
+license: CC-BY-4.0
+repository-code: "https://github.com/Raulm33/uwb-stella-shield-enclosures"
+url: "https://github.com/Raulm33/uwb-stella-shield-enclosures"
