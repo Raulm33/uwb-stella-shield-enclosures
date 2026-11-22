@@ -15,4 +15,12 @@ keywords:
   - Arduino Portenta C33
 license: CC-BY-4.0
 repository-code: "https://github.com/Raulm33/uwb-stella-shield-enclosures"
+doi: "10.5281/zenodo.24444242"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24444242"
+    description: "All versions (concept DOI)"
+  - type: doi
+    value: "10.5281/zenodo.24444243"
+    description: "Version v1.0.0"
 url: "https://github.com/Raulm33/uwb-stella-shield-enclosures"
