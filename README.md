@@ -28,7 +28,7 @@ Each enclosure has a base and a snap-on lid. It comes in two variants with the s
     └── prusa-mk4/               9 sliced files (.bgcode) for the Original Prusa MK4
 ```
 
-There is no generating script. The parts exist only as exported STL files; the CAD source is not included.
+There is no generating script. The parts were modeled in Autodesk Fusion; only the exported STL files are included, not the Fusion source.
 
 ## Parts
 
@@ -76,7 +76,7 @@ Measured on the STL meshes and rounded to 0.1 mm. Full and Gaps give the same va
 | Portenta UWB Shield (ASX00074) | 70.1 x 37.5 mm | 85.1 x 39.5 mm | 1.0 mm per side across the width, 15.0 mm in total along the length |
 | Arduino Portenta C33 (ABX00074) | 66.04 x 25.40 mm | same cavity | sits on the four standoffs |
 
-The standoff holes in the Shield base are positions for M2 screws. The units tested so far were assembled without screws. The Stella enclosure has no screw holes.
+The standoff holes in the Shield base are positions for M2 screws. The mounting holes of the Portenta C33 are 1.12 mm in diameter, so the board is drilled at those positions before it is screwed down; there is room for the larger holes. The units tested so far were assembled without screws. The Stella enclosure has no screw holes.
 
 ## Printing
 

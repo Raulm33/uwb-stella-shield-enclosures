@@ -54,7 +54,7 @@ The `.bgcode` files keep the original STL file names in their metadata (for exam
 
 1. Remove the brim if one was printed.
 2. Shield: plug the Portenta UWB Shield onto the Portenta C33. Lower the assembly into the base with the USB-C connector in the end-wall opening and the board resting on the four standoffs.
-3. Shield, optional: fix the board with M2 screws in the standoff holes (1.8 mm diameter, about 3.5 mm deep). The units tested so far were run without screws.
+3. Shield, optional: drill the board at the standoff positions (its own mounting holes are 1.12 mm, too small for M2) and fix it with M2 screws in the standoff holes (1.8 mm diameter, about 3.5 mm deep). The units tested so far were run without screws.
 4. Stella: insert the CR2032 battery if the unit is to run untethered. Press the board into the base with the USB-C connector in the opening of the diagonal face, until it rests on the three corner pads.
 5. Press the lid onto the base until the tabs engage. The Shield lid fits in two orientations and the Stella lid in eight.
 6. To open, pull the lid off by hand.
