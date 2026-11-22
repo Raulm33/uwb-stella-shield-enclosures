@@ -11,6 +11,13 @@ Each enclosure has a base and a snap-on lid. It comes in two variants with the s
 
 ![Stella enclosure, Full and Gaps variants](docs/img/stella-enclosure.png)
 
+## Printed units
+
+| | | |
+|---|---|---|
+| ![Printed parts of both enclosures](docs/img/printed-enclosure-parts.jpg) | ![Stella in the Gaps enclosure](docs/img/stella-enclosure-gaps-assembled.jpg) | ![Stella in the Full enclosure with a USB-C cable, next to the Prusa MK4](docs/img/stella-enclosure-full-usb-c.jpg) |
+| Printed parts in light brown PLA | Stella in the Gaps enclosure | Stella in the Full enclosure, powered over USB-C |
+
 ## Repository layout
 
 ```
@@ -20,7 +27,7 @@ Each enclosure has a base and a snap-on lid. It comes in two variants with the s
 ├── CITATION.cff
 ├── docs/
 │   ├── PRINTING.md              print settings, orientation, assembly
-│   └── img/                     renders used in this README
+│   └── img/                     renders and photos used in this README
 ├── stl/
 │   ├── shield/                  4 files: base and lid, Full and Gaps
 │   └── stella/                  4 files: base and lid, Full and Gaps
@@ -97,7 +104,7 @@ The ranging measurements made with these boards are described in:
 
 R. A. Muntean, H. Balta, M. Kovaci, A. Vesa, and V. A. Niță, "Experimental characterization of UWB distance measurement error as a function of transmit power and tag localization using a mobile anchor," presented at the Int. Symp. Electron. Telecommun. (ISETC), Timișoara, Romania, 2026.
 
-The firmware and the phone apps of the prototype are not part of this repository.
+The firmware and the phone apps are in a separate repository: [uwb-stella-shield-indoor-positioning](https://github.com/Raulm33/uwb-stella-shield-indoor-positioning).
 
 ## How to cite
 
@@ -105,4 +112,4 @@ See [CITATION.cff](CITATION.cff), or use the "Cite this repository" button on Gi
 
 ## License
 
-The design files and the documentation are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). See [LICENSE](LICENSE).
+The design files, the documentation and the photos are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). See [LICENSE](LICENSE).
